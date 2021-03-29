@@ -39,3 +39,6 @@ Below is the implementation of the above approach.
 
 
 Output: 
+http://fleexstudio.com/cpp/hospital1.png
+http://fleexstudio.com/cpp/hospital2.png
+http://fleexstudio.com/cpp/hospital3.png
